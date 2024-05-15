@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689576621 source:c:\users\user\documents\espe\itin\f. programacion\banco\main.cpp
+	<iostream>
+	"Lib1PortadaMenu.h"
+
+1689578929 c:\users\user\documents\espe\itin\f. programacion\banco\lib1portadamenu.h
+	<iostream>
+
+1689482108 c:\users\user\documents\espe\itin\f. programacion\banco\lib3algoritmosbo.h
+	<string>
+

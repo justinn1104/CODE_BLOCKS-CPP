@@ -1,0 +1,5712 @@
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: asdfg asdfg
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres: asdf asdf
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: asdf adsf
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  
+Edad: 16
+Peso: 1.3
+Diereccion: asdfsg
+
+La persona 4
+Nombres:  
+Edad: 5
+Peso: 1
+Diereccion: asdfgdh
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres:  
+Edad: 1
+Peso: 1
+Diereccion: asdf
+Materia: asdf
+ID Materia: 111
+Horas Materia: 0
+Promedio Materia: 0
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: asdfg asdf
+Edad: 1
+Peso: 1
+Diereccion: asdfg
+
+La persona 4
+Nombres: asdfgd asdf
+Edad: 1
+Peso: 1
+Diereccion: asdf
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: fgdsdf sdfgcv
+Edad: 1
+Peso: 1
+Diereccion: sdfgh
+Materia: sfdgh
+ID Materia: 1
+Horas Materia: 1
+Promedio Materia: 1

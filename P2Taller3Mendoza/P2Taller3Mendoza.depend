@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1705496143 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2taller3mendoza\main.cpp
+	<iostream>
+	"LibreriaEstructuraMendoza.h"
+
+1705592264 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2taller3mendoza\libreriaestructuramendoza.h
+	"LibreriaArreglosMendoza.h"
+	<iostream>
+
+1705592264 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2taller3mendoza\libreriaarreglosmendoza.h
+	<iostream>
+

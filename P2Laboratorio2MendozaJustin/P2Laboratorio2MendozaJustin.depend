@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1707325156 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2laboratorio2mendozajustin\main.cpp
+	<iostream>
+	"L1EstructurasMendoza.h"
+
+1707324101 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2laboratorio2mendozajustin\l1estructurasapellidos.h
+	"L2OrdenamientosBusquedas.h"
+	<iostream>
+
+1707325530 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2laboratorio2mendozajustin\l2ordenamientosbusquedas.h
+	<iostream>
+
+1707325279 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2laboratorio2mendozajustin\l1estructurasmendoza.h
+	"L2OrdenamientosBusquedas.h"
+	<iostream>
+

@@ -1,0 +1,96 @@
+
+=========================================================================
+	
+USUARIO #1
+Nombres: Justin Andres Mendoza Duenas
+C.I: 2350233512
+Fecha Nacimiento: 11/03/04
+Numero de Cuenta: 1000000000
+Usuario: admin
+Contraseña: admin
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #2
+Nombres: J J J J
+C.I: 1234567890
+Fecha Nacimiento: 1/1/04
+Numero de Cuenta: 1000000001
+Usuario: jjj01
+Contraseña: j10104
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #1
+Nombres: Justin Andres Mendoza Duenas
+C.I: 2350233512
+Fecha Nacimiento: 11/03/04
+Numero de Cuenta: 1000000000
+Usuario: admin
+Contraseña: admin
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #2
+Nombres: j j j j
+C.I: 1234567890
+Fecha Nacimiento: 1/1/04
+Numero de Cuenta: 1000000001
+Usuario: jjj01
+Contraseña: j10104
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #1
+Nombres: Justin Andres Mendoza Duenas
+C.I: 2350233512
+Fecha Nacimiento: 11/03/04
+Numero de Cuenta: 1000000000
+Usuario: admin
+Contraseña: admin
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #2
+Nombres: Alexis Didier Guerrero Duenas
+C.I: 1234567890
+Fecha Nacimiento: 24/8/06
+Numero de Cuenta: 1000000001
+Usuario: adguerrero08
+Contraseña: 608042orerreug
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #1
+Nombres: Justin Andres Mendoza Duenas
+C.I: 2350233512
+Fecha Nacimiento: 11/03/04
+Numero de Cuenta: 1000000000
+Usuario: admin
+Contraseña: admin
+=========================================================================
+
+
+=========================================================================
+	
+USUARIO #2
+Nombres: a a a a
+C.I: 1472583699
+Fecha Nacimiento: 1/1/04
+Numero de Cuenta: 1000000001
+Usuario: aaa01
+Contraseña: 40101a
+=========================================================================
+

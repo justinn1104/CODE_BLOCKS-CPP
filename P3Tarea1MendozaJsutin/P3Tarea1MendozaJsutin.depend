@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1707904182 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea1mendozajsutin\main.cpp
+	<iostream>
+	"L1EstructuraMendoza.h"
+
+1707904149 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea1mendozajsutin\l1estructuramendoza.h
+	<iostream>
+	<locale.h>
+	"L2FuncionesCadenasMendoza.h"
+
+1707959242 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea1mendozajsutin\l2funcionescadenasmendoza.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<locale.h>
+	<algorithm>
+

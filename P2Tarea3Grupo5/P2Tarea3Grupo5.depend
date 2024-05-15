@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1706689874 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo5\main.cpp
+	<iostream>
+	"L1EstructuraGrupo5.h"
+
+1706865234 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo5\l1estructuragrupo5.h
+	<iostream>
+	"L4Inventario_Clientes.h"
+	"L3Venta_FacturarGrupo5.h"
+
+1706866289 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo5\l4inventario_clientes.h
+	<iostream>
+	"L1EstructuraGrupo5.h"
+	"L2Ordenamientos_BusquedasGrupo5.h"
+
+1706852054 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo5\l2ordenamientos_busquedasgrupo5.h
+	<iostream>
+	"L4Inventario_Clientes.h"
+
+1706866483 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo5\l3venta_facturargrupo5.h
+	<iostream>
+	<cmath>
+	"L4Inventario_Clientes.h"
+	"L2Ordenamientos_BusquedasGrupo5.h"
+

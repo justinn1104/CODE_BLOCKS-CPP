@@ -1,0 +1,136 @@
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres:  asdf
+Edad: 12
+Peso: 1.2
+Diereccion: afd
+
+La persona 4
+Nombres: adsfg 23.3
+Edad: 12
+Peso: 12.3
+Diereccion: afsgdhj
+
+	STRUCT ANIDADO
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: Carlos guerrero
+Edad: 48
+Peso: 3.6
+Diereccion: sadadsads
+
+La persona 4
+Nombres: Andres Duenas
+Edad: 19
+Peso: 2.3
+Diereccion: asdadads
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: Camila Vega
+Edad: 20
+Peso: 3.6
+Diereccion: adadads
+Materia: dasdad
+ID Materia: as12
+Horas Materia: 12
+Promedio Materia: 15
+
+El Estudiente2
+Nombres: Alexis Guerrero
+Edad: 13
+Peso: 2.36
+Diereccion: daasafdafa
+Materia: adsadsa
+ID Materia: 123
+Horas Materia: 12
+Promedio Materia: 49
+
+El Estudiente3
+Nombres: Arianna Vergara
+Edad: 1
+Peso: 1
+Diereccion: daadsa
+Materia: adafaf
+ID Materia: 123a
+Horas Materia: 23
+Promedio Materia: 18
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: Karina rodriguez
+Edad: 32
+Peso: 1.2
+Diereccion: asdad
+
+La persona 4
+Nombres: Danny Farias
+Edad: 49
+Peso: 2.3
+Diereccion: asdadsad
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: Emely aviles
+Edad: 19
+Peso: 2.36
+Diereccion: adsada
+Materia: adafdsa
+ID Materia: 12a
+Horas Materia: 23
+Promedio Materia: 18

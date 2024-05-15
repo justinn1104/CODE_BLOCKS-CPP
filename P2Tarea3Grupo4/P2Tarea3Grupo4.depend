@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1706772051 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo4\main.cpp
+	<iostream>
+	"L1EstructuraGrupo4.h"
+
+1706789890 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo4\l1estructuragrupo4.h
+	<iostream>
+	"L2Registro_InicioSesion.h"
+	"L4Emision_Cedula.h"
+
+1706770647 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo4\l2registro_iniciosesion.h
+	<iostream>
+	"L1EstructuraGrupo4.h"
+	"L3Ordenamientos_Busquedas.h"
+	"L4Emision_Cedula.h"
+
+1706772255 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo4\l3ordenamientos_busquedas.h
+	<iostream>
+
+1706771629 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea3grupo4\l4emision_cedula.h
+	<iostream>
+	"L3Ordenamientos_Busquedas.h"
+	"L2Registro_InicioSesion.h"
+	"L1EstructuraGrupo4.h"
+

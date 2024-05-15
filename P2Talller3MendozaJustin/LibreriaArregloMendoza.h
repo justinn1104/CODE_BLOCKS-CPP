@@ -1,0 +1,9 @@
+#ifndef LIBRERIAARREGLOMENDOZA_H_INCLUDED
+#define LIBRERIAARREGLOMENDOZA_H_INCLUDED
+
+#include <iostream>
+
+using namespace std;
+
+
+#endif // LIBRERIAARREGLOMENDOZA_H_INCLUDED

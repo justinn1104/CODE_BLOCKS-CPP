@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1705818438 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea2grupal\main.cpp
+	<iostream>
+	"EstructuraGrupo5.h"
+
+1705819377 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea2grupal\estructuragrupo5.h
+	<iostream>
+	"OrdenamientosBusquedasGrupo5.h"
+	"TiposArreglosGrupo5.h"
+
+1706025396 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea2grupal\ordenamientosbusquedasgrupo5.h
+	<iostream>
+	"EstructuraGrupo5.h"
+
+1705818438 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p2tarea2grupal\tiposarreglosgrupo5.h
+	<iostream>
+	<string>
+	<cmath>
+	"EstructuraGrupo5.h"
+

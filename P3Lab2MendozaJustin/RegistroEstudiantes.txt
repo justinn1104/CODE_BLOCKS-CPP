@@ -1,0 +1,104 @@
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: sdf adfs
+Edad: 1
+Peso: 1
+Diereccion: adfa
+
+La persona 4
+Nombres: dfg dfs
+Edad: 1
+Peso: 1
+Diereccion: sgasdfs
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: adfs dfsd
+Edad: 1
+Peso: 1
+Diereccion: dafs
+Materia: adfs
+ID Materia: 11
+Horas Materia: 1
+Promedio Materia: 1
+
+El Estudiente2
+Nombres: adfsfadsfdasd adfa
+Edad: 1
+Peso: 1
+Diereccion: asf
+Materia: adfs
+ID Materia: 1
+Horas Materia: 1
+Promedio Materia: 1
+
+	STRUCT SIMPLE
+
+2 ESTUDIANTES ESTATICOS
+
+La persona 1
+Nombres: Justin Mendoza
+Edad: 19
+Peso: 1.6
+Diereccion: Nuevo Isrrael
+
+La persona 2
+Nombres: Andres duenas
+Edad: 18
+Peso: 1.4
+Diereccion: El carmen
+
+2 ESTUDIANTES DINAMICOS
+
+La persona 3
+Nombres: sdafgh <zxcvbnm
+Edad: 15
+Peso: 25.6
+Diereccion: sdfghj
+
+La persona 4
+Nombres: xcbvn hkjgfdsa
+Edad: 56
+Peso: 56.6
+Diereccion: fdghj
+
+	STRUCT ANIDADO
+
+El Estudiente1
+Nombres: sdfghj vbn
+Edad: 23
+Peso: 250.6
+Diereccion: fghjk
+Materia: sfdghj
+ID Materia: sdfg1
+Horas Materia: 20
+Promedio Materia: 18.96
+
+El Estudiente2
+Nombres: tyuti gjhkl
+Edad: 45
+Peso: 569.3
+Diereccion: jmfjkl
+Materia: guio
+ID Materia: fghjk78
+Horas Materia: 15
+Promedio Materia: 17.63

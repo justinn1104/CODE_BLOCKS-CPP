@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1709044018 source:c:\users\espe\desktop\p3taller2caiedokevin\p3eva4mendozajustin\main.cpp
+	<iostream>
+	"L1EstructuraMendoza.h"
+
+1709048875 c:\users\espe\desktop\p3taller2caiedokevin\p3eva4mendozajustin\l1estructuramendoza.h
+	<iostream>
+	"L2ArchivosStructMendoza.h"
+
+1709048970 c:\users\espe\desktop\p3taller2caiedokevin\p3eva4mendozajustin\l2archivosstructmendoza.h
+	<iostream>
+	<fstream>
+	<string>
+
+1709044018 source:c:\users\espe\desktop\p3eva4mendozajustin\main.cpp
+	<iostream>
+	"L1EstructuraMendoza.h"
+
+1709049072 c:\users\espe\desktop\p3eva4mendozajustin\l1estructuramendoza.h
+	<iostream>
+	"L2ArchivosStructMendoza.h"
+
+1709049073 c:\users\espe\desktop\p3eva4mendozajustin\l2archivosstructmendoza.h
+	<iostream>
+	<fstream>
+	<string>
+
+1709044018 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3eva4mendozajustin\main.cpp
+	<iostream>
+	"L1EstructuraMendoza.h"
+
+1709049072 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3eva4mendozajustin\l1estructuramendoza.h
+	<iostream>
+	"L2ArchivosStructMendoza.h"
+
+1709049073 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3eva4mendozajustin\l2archivosstructmendoza.h
+	<iostream>
+	<fstream>
+	<string>
+

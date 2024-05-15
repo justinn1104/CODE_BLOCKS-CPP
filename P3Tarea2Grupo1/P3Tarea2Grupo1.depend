@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1708838108 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2grupo1\main.cpp
+	<iostream>
+	"L1EstructuraGrupo1.h"
+
+1708872221 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2grupo1\l1estructuragrupo1.h
+	<iostream>
+	"L3StructGrupo1.h"
+	"L2ArchivosGrupo1.h"
+
+1708892298 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2grupo1\l3structgrupo1.h
+	<iostream>
+	<fstream>
+
+1708869166 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2grupo1\l2archivosgrupo1.h
+	<iostream>
+	<fstream>
+

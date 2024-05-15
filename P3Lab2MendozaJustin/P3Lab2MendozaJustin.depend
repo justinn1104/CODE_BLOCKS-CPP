@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1709084549 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3lab2mendozajustin\main.cpp
+	<iostream>
+	"L1EstructuraMendoza.h"
+
+1709086675 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3lab2mendozajustin\l1estructuramendoza.h
+	<iostream>
+	"L2ArchivosMendoza.h"
+	"L3PilasListasMendoza.h"
+	"L4StructsMendoza.h"
+
+1709084648 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3lab2mendozajustin\l2archivosmendoza.h
+	<iostream>
+	<fstream>
+	"L4StructsMendoza.h"
+
+1709086675 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3lab2mendozajustin\l4structsmendoza.h
+	<iostream>
+	"L2ArchivosMendoza.h"
+
+1709084828 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3lab2mendozajustin\l3pilaslistasmendoza.h
+	<iostream>
+	<fstream>
+

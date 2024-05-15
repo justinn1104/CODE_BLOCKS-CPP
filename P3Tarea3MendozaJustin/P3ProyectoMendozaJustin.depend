@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1709099764 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3proyectomendozajustin\main.cpp
+	<iostream>
+	"L1EstructurasMendoza.h"
+
+1709283879 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3proyectomendozajustin\l1estructurasmendoza.h
+	<iostream>
+	"L2StructsMendoza.h"
+	"L3ProcesosMendoza.h"
+	"L4ArchivosMendoza.h"
+
+1709221405 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3proyectomendozajustin\l2structsmendoza.h
+	<iostream>
+
+1709283709 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3proyectomendozajustin\l3procesosmendoza.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<locale.h>
+	<algorithm>
+	<cctype>
+	"L1EstructurasMendoza.h"
+	"L4ArchivosMendoza.h"
+
+1709222073 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3proyectomendozajustin\l4archivosmendoza.h
+	<iostream>
+	<fstream>
+	"L2StructsMendoza.h"
+	"L3ProcesosMendoza.h"
+
+1709099764 source:c:\users\espe\desktop\p3proyectomendozajustin\p3proyectomendozajustin\main.cpp
+	<iostream>
+	"L1EstructurasMendoza.h"
+
+1709221958 c:\users\espe\desktop\p3proyectomendozajustin\p3proyectomendozajustin\l1estructurasmendoza.h
+	<iostream>
+	"L2StructsMendoza.h"
+	"L3ProcesosMendoza.h"
+	"L4ArchivosMendoza.h"
+
+1709221405 c:\users\espe\desktop\p3proyectomendozajustin\p3proyectomendozajustin\l2structsmendoza.h
+	<iostream>
+
+1709220994 c:\users\espe\desktop\p3proyectomendozajustin\p3proyectomendozajustin\l3procesosmendoza.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<locale.h>
+	<algorithm>
+	<cctype>
+	"L1EstructurasMendoza.h"
+	"L4ArchivosMendoza.h"
+
+1709222073 c:\users\espe\desktop\p3proyectomendozajustin\p3proyectomendozajustin\l4archivosmendoza.h
+	<iostream>
+	<fstream>
+	"L2StructsMendoza.h"
+	"L3ProcesosMendoza.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1705274285 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\9p2tarea2mendozajustin\main.cpp
+	<iostream>
+	"LibreriaEstructura1.h"
+
+1705381144 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\9p2tarea2mendozajustin\libreriaestructura1.h
+	<iostream>
+	"LibreriaEstructura2.h"
+	"LibreriaEstructura3.h"
+	"LibreriaEstructura4.h"
+
+1705371410 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\9p2tarea2mendozajustin\libreriaestructura3.h
+	<iostream>
+	<cmath>
+
+1705373775 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\9p2tarea2mendozajustin\libreriaestructura4.h
+	<iostream>
+	<cmath>
+	"LibreriaEstructura1.h"
+
+1705381175 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\9p2tarea2mendozajustin\libreriaestructura2.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1708452921 source:c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2mendozajustin\main.cpp
+	<iostream>
+	"L1Mendoza.h"
+
+1708453291 c:\users\mendo\onedrive\escritorio\proyectos_202351- 2s\code_blocks\p3tarea2mendozajustin\l1mendoza.h
+	<iostream>
+

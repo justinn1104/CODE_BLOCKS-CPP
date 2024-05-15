@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="LibreriaEstructuraMendoza.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13732" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="31" />
+			<Collapse line="45" />
+			<Collapse line="95" />
+			<Collapse line="251" />
+		</Folding>
+	</File>
+	<File name="LibreriaArreglosMendoza.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17350" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="52" />
+			<Collapse line="64" />
+			<Collapse line="72" />
+			<Collapse line="89" />
+			<Collapse line="102" />
+			<Collapse line="138" />
+			<Collapse line="153" />
+			<Collapse line="186" />
+			<Collapse line="226" />
+			<Collapse line="238" />
+			<Collapse line="273" />
+			<Collapse line="313" />
+			<Collapse line="327" />
+			<Collapse line="362" />
+			<Collapse line="403" />
+			<Collapse line="435" />
+			<Collapse line="439" />
+			<Collapse line="443" />
+			<Collapse line="455" />
+			<Collapse line="469" />
+			<Collapse line="486" />
+			<Collapse line="502" />
+			<Collapse line="510" />
+			<Collapse line="520" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="124" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

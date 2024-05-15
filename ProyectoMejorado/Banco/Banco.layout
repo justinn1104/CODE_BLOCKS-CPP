@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="Lib2AlgoritmosOB.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="22" />
+			<Collapse line="35" />
+			<Collapse line="52" />
+			<Collapse line="62" />
+			<Collapse line="74" />
+			<Collapse line="84" />
+		</Folding>
+	</File>
+	<File name="Lib1PortadaMenu.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="322" topLine="39" />
+		</Cursor>
+		<Folding>
+			<Collapse line="41" />
+			<Collapse line="65" />
+			<Collapse line="117" />
+			<Collapse line="213" />
+			<Collapse line="259" />
+			<Collapse line="288" />
+			<Collapse line="317" />
+			<Collapse line="353" />
+			<Collapse line="448" />
+			<Collapse line="490" />
+			<Collapse line="514" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

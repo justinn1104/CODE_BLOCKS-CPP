@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="430" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="L2Ordenamientos_BusquedasGrupo5.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5362" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="35" />
+			<Collapse line="47" />
+			<Collapse line="60" />
+			<Collapse line="83" />
+			<Collapse line="108" />
+			<Collapse line="125" />
+		</Folding>
+	</File>
+	<File name="L1EstructuraGrupo5.h" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2257" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="35" />
+			<Collapse line="70" />
+		</Folding>
+	</File>
+	<File name="L4Inventario_Clientes.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7989" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="25" />
+			<Collapse line="56" />
+			<Collapse line="88" />
+			<Collapse line="127" />
+			<Collapse line="146" />
+			<Collapse line="151" />
+			<Collapse line="159" />
+			<Collapse line="169" />
+			<Collapse line="176" />
+			<Collapse line="199" />
+		</Folding>
+	</File>
+	<File name="L3Venta_FacturarGrupo5.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2415" topLine="10" />
+		</Cursor>
+		<Folding>
+			<Collapse line="23" />
+			<Collapse line="62" />
+			<Collapse line="140" />
+			<Collapse line="155" />
+			<Collapse line="186" />
+			<Collapse line="217" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
